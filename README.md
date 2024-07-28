@@ -12,7 +12,7 @@
 
 
 ### 🖥 Skills
-
+- Data Visualization 
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
